@@ -1,4 +1,4 @@
-# Cose di cui mi piacerebbe parlarti:
+# Cose di cui mi piacerebbe parlarti
 
 - [ ] **Tor**: la cipolla che salverà il mondo;
 - [ ] Un mucchio di roba **punk** tipo:
