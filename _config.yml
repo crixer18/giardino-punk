@@ -10,6 +10,6 @@ plugins:
 # The default Jekyll theme we will be using
 theme: jekyll-theme-primer
 # The GitHub repository that we are hosting our foam workspace from [default is user/repo]
-repository: crixer18/progetto2
+repository: user/repo
 # Generate permalinks in format specified in: https://jekyllrb.com/docs/permalinks/#built-in-formats
 permalink: pretty
