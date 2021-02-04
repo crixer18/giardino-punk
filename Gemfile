@@ -7,3 +7,4 @@ gem "jekyll-default-layout"
 gem "jekyll-relative-links"
 gem "jekyll-readme-index"
 gem "jekyll-titles-from-headings"
+gem 'jekyll-seo-tag'
