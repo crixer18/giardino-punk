@@ -13,11 +13,3 @@ plugins:
 repository: crixer18/progetto2
 # Generate permalinks in format specified in: https://jekyllrb.com/docs/permalinks/#built-in-formats
 permalink: pretty
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-      values:
-        layout: "default"
