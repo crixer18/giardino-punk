@@ -1,4 +1,17 @@
 title: giardino punk
+description: Mi chiamo Stefano e questo è il mio giardino digitale.
+image: /imgs/img0.jpg
+author:
+  name: Stefano Zuliani
+  twitter: waldekm
+twitter:
+  username: ZulianiStph
+  card: summary
+social:
+  name: Stefano Zuliani
+  links:
+    - https://twitter.com/ZulianiStph
+    - https://www.linkedin.com/in/s-zuliani/
 # All the plugins we will be installing now that we won't be using GitHub Pages
 plugins:
   - jekyll-default-layout
