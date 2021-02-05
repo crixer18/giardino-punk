@@ -1,5 +1,6 @@
 ---
 title: "Le responsabilità di Pereira, Edipo, Macbeth e Darth Vader"
+image: "imgs/img0.jpg"
 
 ---
 # Le responsabilità di Pereira, Edipo, Macbeth e Darth Vader
