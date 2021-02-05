@@ -1,3 +1,9 @@
+---
+title: "Cose di cui mi poacerebbe parlarti"
+description: 'Ecco una lista di topics interessanti di cui il mio digital garden è sfornito. Per ora.'
+image: "imgs/img0.jpg"
+
+---
 # Cose di cui mi piacerebbe parlarti
 
 - [ ] **Tor**: la cipolla che salverà il mondo;
