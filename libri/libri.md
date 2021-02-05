@@ -7,18 +7,7 @@ image: "imgs/img0.jpg"
 
 # Libri 📚
 
-L'unica cosa più grande della mia ambizione e la lista dei [[Libri che mi piacerebbe leggere]].
-
-<table class="libri-table">
-    <tr>
-        <td>Cella 2</td>
-        <td><strong>Cella 7</strong><br>stessa cella</td>
-    <tr>
-    <tr>
-        <td>Cella 3</td>
-        <td>Cella 4</td>
-    </tr>
-</table>
+L'unica cosa più grande della mia ambizione e la lista dei [[Libri che mi piacerebbe leggere]]...
 
 * [[Le responsabilità di Pereira]]
 
