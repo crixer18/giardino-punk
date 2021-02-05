@@ -7,19 +7,17 @@
 
 .markdown-body {
   max-width: 700px;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .markdown-body p {
   font-size: 17px;
   line-height: 1.9em;
   margin-bottom: 1.2em;
-  font-family: brandon-grotesque,sans-serif;
-  font-weight: 400;
-  font-style: normal;
 }
 
 .markdown-body li {
+  font-size: 17px;
   line-height: 1.9em;
 }
 
@@ -33,6 +31,12 @@ h3,
 h4,
 h5,
 blockquote {
+  font-family: brandon-grotesque,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.classe-di-prima{
   font-family: Helvetica, Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
     "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }
@@ -41,6 +45,6 @@ a{
   color:green;
 }
 
-.libri-table{
-  width: 100%;
+#copertine{
+  margin:auto;
 }
