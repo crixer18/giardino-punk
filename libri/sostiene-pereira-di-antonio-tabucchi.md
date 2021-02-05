@@ -1,9 +1,12 @@
 ---
-title: "Le responsabilità di Pereira, Edipo, Macbeth e Darth Vader"
+title: "Sostiene Pereira di Antonio Tabucchi"
+description: "Un romanzo che affronta le responsabilità di Pereira, Edipo, Macbeth e perfino Darth Vader."
 image: "imgs/img0.jpg"
 
 ---
-# Le responsabilità di Pereira, Edipo, Macbeth e Darth Vader
+
+# *Sostiene Pereira* di Antonio Tabucchi
+## Storia e menzogne intorno alle responsabilità di Pereira, Edipo, Macbeth e perfino Darth Vader
 
 
 >*«Sostiene Pereira di averlo conosciuto in un giorno d’estate. Una magnifica giornata d’estate, soleggiata e ventilata, e Lisbona sfavillava. Pare che Pereira stesse in redazione, non sapeva che fare, il direttore era in ferie, lui si trovava nell’imbarazzo di mettere su la pagina culturale, perché il “Lisboa” aveva ormai una pagina culturale, e l’avevano affidata a lui. E lui, Pereira, rifletteva sulla morte.»*
