@@ -1,6 +1,8 @@
 ---
 
 title: "giardino punk"
+description: "Un ambiente tranquillo dove rifletto su alcune delle cose interessanti che si possono trovare nella Rete e fuori."
+image: "imgs/img0.jpg"
 
 ---
 
