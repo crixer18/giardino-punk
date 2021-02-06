@@ -17,6 +17,8 @@ image: "imgs/img0.jpg"
 - [ ] Cos'è il **transumanismo** e come si lega a filo doppio allo xenofemminismo di Hester Helen ecc.;
 - [ ] I link;
 - [ ] I visionari;
+- [ ] Quella fastidiosa casella che devi spuntare con accanto scritto "Non sono un robot";
+- [ ] Utopia, distopia ed eterotopia;
 - [ ] Un momento in cui mi sono accorto che **l'architettura del sito** sul quale stavo scrivendo influenzava la forma dei miei pensieri.
 
 Se hai qualche lettura interessante da consigliami su questi argomenti scrivimi una [mail](mailto:web@zulianis.eu).

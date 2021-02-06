@@ -50,6 +50,7 @@ Comincia a esplorare:
 * [Not](https://not.neroeditions.com/cose-la-theory-fiction/) di Nero Edizioni
 * [clusterduck.space](https://clusterduck.space/)
 * [Patterns](http://gordonbrander.com/pattern/the-feynman-method/), il digital garden di Gordon Brander
+* [The Eastgate Garden](http://www.eastgate.com/garden/Introduction.html)
 
 ### Strumenti che meriti di scoprire
 
