@@ -10,7 +10,7 @@ image: "imgs/img0.jpg"
 
 Ciao! Mi chiamo Stefano, sono un comunicatore digitale appassionato di letterature e tecnologie. Questo è un ambiente in-progress, dove rifletto su alcune delle cose interessanti in cui mi sono imbattuto fuori e dentro la Rete. Ecco una lista delle [[cose di cui mi piacerebbe parlarti]].
 
-🚀 In questi giorni sto: lavorando a **The Ronnie Pinn Project** (presto online).
+🚀 In questi giorni sto: lavorando a **The [Ronnie Pinn](https://www.nonbookblogger.it/2020/01/16/linvenzione-di-ronnie-pinn-di-andrew-ohagan/) Project** (presto online).
 
 👾 Che tu ci creda o meno, questo sito __non__ usa cookie di terze parti.
 
