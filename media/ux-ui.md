@@ -53,13 +53,15 @@ D'altra parte:
 
 Per questo, il primo schizzo di una vera e propria griglia è più che altro simile a una saponetta istoriata (specie se hai una zampa di gallina come la mia).
 
-<img src="imgs/img3.jpg" alt="mappa mentale" style="align:center;" />
+<img src="imgs/img3.jpg" alt="sketch" style="align:center;" />
 
 ### Trial & error, content first and human beings
 
 Un'altra cosa che per molto tempo ho sottovalutato sono le **demo**, ossia tutti quelle versioni grafiche che fai *prima* di mettere le mani sul codice.
 
 Io personalmente uso un software che si chiama Adobe Xd, che produce prototipi interattivi davvero efficienti. Poi li testo su tutti i miei dispositivi e, se posso, chiedo in prestito anche quelli degli altri. Facendo parte della Suite, Adobe Xd è piuttosto costoso, ma online puoi trovare ottimi consigli di software con cui creare le tue simulazioni. Una volta prodotte, ti consiglio di mostrarle a quante più persone possibile e raccogliere tutti i feedback (è incredibilmente utile quello della nonna che ti fa notare quanto è scritta piccolo la tua pagina).
+
+<img src="imgs/img4.PNG" alt="prototipo" style="align:center;" />
 
 Fai tesoro di tutto. Quando poi passerai allo sviluppo non vorrai accorgerti che ti era sfuggito qualcosa nelle demo. Ogni cosa è migliorabile naturalmente ma, soprattutto se parti da un'interfaccia semplice, chiarezza, ordine e leggibilità sono il livello zero.
 
