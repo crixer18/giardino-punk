@@ -1,4 +1,6 @@
 ---
+
+layout: page
 title: "UX/UI"
 description: 'Ossia: tutto quello che succede all'interfaccia di un sito prima che tu lo veda'
 image: "imgs/img0.jpg"
@@ -34,7 +36,7 @@ La sensazione all'inizio è un po' quella di quando ti siedi alla scrivania di f
 
 L'idea è il punto da cui emana tutto. Come dicevo, è molto difficile scindere l'idea grafica dal contenuto, perciò molto spesso è meglio partire dal contenuto. Peraltro, se sei una persona poco visiva e niente affatto manuale come me, il pensiero di prendere in mano una penna o un pennarello e fare uno schizzo può essere di per sé un ostacolo. **Avere un'idea della struttura del contenuto** e limitarsi a mettere su carta quella può essere un ottimo modo per rompere il ghiaccio con i ferri del mestiere. La prima cosa che io disegno non è una griglia, ma una mappa mentale. Quello che dobbiamo arrivare a capire è: di che cosa stiamo parlando?
 
-<img src="imgs/img2.jpg" alt="mappa mentale" style="align:center;" />
+![Mappa mentale](/imgs/img2.jpg)
 
 Se, come nel mio caso, lavori a un tuo progetto, certamente un'idea iniziale del progetto l'avrai. Di solito non è molto definita, conta molti dettagli insignificanti e grossi punti ciechi. Fare una mappa mentale è senz'altro utile, ma qualche volta può alimentare l'ansia da prestazione e la sensazione di essere ancora troppo indietro nel progetto. Il mio consiglio è di riflettere, fare schizzi, prendere nota, fare chiarezza. Ma se il contenuto stesso ti sembra troppo debole (e se ti sembra così probabilmente hai ragione), la cosa che per me funziona è alzarmi e andare a fare una passeggiata. Posso camminare per ore con un'idea in testa, girarci attorno, immaginarla, approfondirla, strutturarla – così ho scoperto l'utilità delle note vocali.
 
@@ -53,7 +55,7 @@ D'altra parte:
 
 Per questo, il primo schizzo di una vera e propria griglia è più che altro simile a una saponetta istoriata (specie se hai una zampa di gallina come la mia).
 
-<img src="imgs/img3.jpg" alt="sketch" style="align:center;" />
+![Layout sketch](/imgs/img3.jpg)
 
 ### Trial & error, content first and human beings
 
@@ -61,7 +63,7 @@ Un'altra cosa che per molto tempo ho sottovalutato sono le **demo**, ossia tutti
 
 Io personalmente uso un software che si chiama Adobe Xd, che produce prototipi interattivi davvero efficienti. Poi li testo su tutti i miei dispositivi e, se posso, chiedo in prestito anche quelli degli altri. Facendo parte della Suite, Adobe Xd è piuttosto costoso, ma online puoi trovare ottimi consigli di software con cui creare le tue simulazioni. Una volta prodotte, ti consiglio di mostrarle a quante più persone possibile e raccogliere tutti i feedback (è incredibilmente utile quello della nonna che ti fa notare quanto è scritta piccolo la tua pagina).
 
-<img src="imgs/img4.PNG" alt="prototipo" style="align:center;" />
+![Prototipo](/imgs/img4.PNG)
 
 Fai tesoro di tutto. Quando poi passerai allo sviluppo non vorrai accorgerti che ti era sfuggito qualcosa nelle demo. Ogni cosa è migliorabile naturalmente ma, soprattutto se parti da un'interfaccia semplice, chiarezza, ordine e leggibilità sono il livello zero.
 
