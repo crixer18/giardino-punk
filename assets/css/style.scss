@@ -47,12 +47,18 @@ a {
   background-repeat: no-repeat;
   background-size: 100% 0.13em;
   background-position: 0 95%;
-  transition: background-size 0.25s ease-in;}
+  transition: background-size 0.25s ease-in;
+}
 a:hover {
-    color:white;
-	  background-size: 100% 88%;
-    text-decoration: none;
-  }
+  color:white;
+	background-size: 100% 88%;
+  text-decoration: none;
+}
+
+h1 a{
+  color: green;
+  background-image: none;
+}
 
 
 
