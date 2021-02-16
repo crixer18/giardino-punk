@@ -26,8 +26,13 @@ image: "imgs/img0.jpg"
 * [Patterns](http://gordonbrander.com/pattern/the-feynman-method/), il digital garden di Gordon Brander
 * [The Eastgate Garden](http://www.eastgate.com/garden/Introduction.html)
 
-## Strumenti che meriti di scoprire
+## Articoli memorabili
 
+* [Una storia-continua del Movimento Cyberpunk](http://www.quadernidaltritempi.eu/cyberpunk-antologia-assoluta/) di Luca Giudici su *Quaderni d'altri tempi*
+
+## Tools che meriti di scoprire
+
+* [What The Font](https://www.myfonts.com/WhatTheFont/) riconosce al volo la font-family a partire da un'immagine
 * [Ricochet](https://ricochet.im/) anonymus instant messages, ma anche [Discord](https://discord.com/) per i gruppi
 * [Foam](https://foambubble.github.io/foam/) per organizzare i tuoi pensieri o qualsiasi altra cosa
 * [Tor](https://www.torproject.org/) per navigare in santa privacy
