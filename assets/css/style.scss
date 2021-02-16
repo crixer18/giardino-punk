@@ -55,9 +55,12 @@ a:hover {
   text-decoration: none;
 }
 
-h1 a{
-  color: green;
+h1 a, h2 a{
+  color: rgba(43,105,86,1);
   background-image: none;
+}
+h1 a:hover, h2 a:hover{
+  color: rgba(55,161,109,1);
 }
 
 
