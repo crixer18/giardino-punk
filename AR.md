@@ -9,12 +9,12 @@ image: "imgs/img0.jpg"
 
 ## C'è già la versione for-dummies, però è di Facebook
 
-Fino a circa una settimana fa credevo che il futuro dell'AR fossero i Google Glass, e già non mi andava a genio. Puoi immaginare la mia sorpresa quando ho scoperto che invece il grande gonfaloniere dell'Augmented Reality è Facebook. In realtà, a pensarci bene, sono stato ingenuo. Come pensi che siano realizzati i filtrini ringiovanenti e gli occhiali hipster che arricchiscono le nostre strepitose Instagram Stories? Ecco, quello è il futuro dell'AR – e se non il futuro, sicuramente il presente.
+Fino a circa una settimana fa credevo che il futuro dell'AR fossero i [Google Glass](https://it.wikipedia.org/wiki/Google_Glass), e già non mi andava a genio. Puoi immaginare la mia sorpresa quando ho scoperto che invece il grande gonfaloniere dell'Augmented Reality è Facebook. In realtà, a pensarci bene, sono stato ingenuo. Come pensi che siano realizzati i filtrini ringiovanenti e gli occhiali hipster che arricchiscono le nostre strepitose Instagram Stories? Ecco, quello è il futuro dell'AR – e se non il futuro, sicuramente il presente.
 
 ### Multifaccia multicolor
 
-Continuo a ripetermelo: sono stato ingenuo. Non c'era nessun bisogno di aspettare i visionari di Google quando, come sempre, l'avanguardia sono modesti content creators, liberi pensatori digitali e piccoli utenti (spesso anche in termini anagrafici) che sguazzano nell'ambente social per ore e ore ogni giorno, proprio come te e me.
-Quello che mai avrei immaginato è che la stessa Facebook facesse di tutto per incoraggiare questi content creators scatenando una specie di **democrazia dei filtrini**. Ce ne sono a migliaia, alcuni amatoriali altri professionali, alcuni banali altri molto complessi, alcuni realizzati da liceali in una noiosa mattina di DAD, altri a sostegno di una grande causa, altri ancora pensati appositamente dai brand per farsi pubblicità senza scucire quasi nulla. Ci sono top-list dei migliori creators, delle idee più originali e delle tendenze. E allora **se il mondo intero vuole i filtrini, mi sono detto, diamogli i filtrini**.
+Continuo a ripetermelo: sono stato ingenuo. Non c'era nessun bisogno di aspettare [i visionari di Google](https://it.wikipedia.org/wiki/X_(azienda)) quando, come sempre, l'avanguardia sono modesti content creators, liberi pensatori digitali e piccoli utenti (spesso anche in termini anagrafici) che sguazzano nell'ambente social per ore e ore ogni giorno, proprio come te e me.
+Quello che mai avrei immaginato è che la stessa Facebook facesse di tutto per incoraggiare questi content creators scatenando una specie di **democrazia dei filtrini**. Ce ne sono a migliaia, alcuni amatoriali altri professionali, alcuni banali altri molto complessi, alcuni realizzati da liceali in una noiosa mattina di DAD, altri a sostegno di una grande causa, altri ancora pensati appositamente dai brand per farsi pubblicità senza scucire quasi nulla. Ci sono top-list dei [migliori creators](https://www.dailydot.com/debug/best-instagram-accounts-ar-filters-effects/), delle idee più originali e delle tendenze. E allora **se il mondo intero vuole i filtrini, mi sono detto, diamogli i filtrini**.
 
 ### Makeup perfetto
 
@@ -22,7 +22,7 @@ Per creare un filtro non occorre aver studiato grafica né progettazione 3D, non
 
 ![Interfaccia](/imgs/img5.png)
 
-_Spark AR_ è un software di proprietà di Facebook, distribuito gratuitamente a chiunque voglia farne uso. L'interfaccia non è delle più invitanti, ma su YouTube si trovano ottimi tutorial da "livello zero" e si fa abbastanza in fretta a prenderci la mano. Se a questo aggiungi alcune librerie di elementi 3D come **Sketchfab** il gioco è praticamente fatto.
+[_Spark AR_](https://sparkar.facebook.com/ar-studio/) è un software di proprietà di Facebook, distribuito gratuitamente a chiunque voglia farne uso. L'interfaccia non è delle più invitanti, ma su YouTube si trovano [ottimi tutorial da "livello zero"](https://www.youtube.com/watch?v=mIt2fdjExy0) e si fa abbastanza in fretta a prenderci la mano. Se a questo aggiungi alcune librerie di elementi 3D come [**Sketchfab**](https://sketchfab.com/feed) il gioco è praticamente fatto.
 Con un po' di apprendistato e una certa creatività, si possono ottenere risultati molto interessanti, mascherine di diverso genere che è possibile caricare direttamente in una galleria effetti di Facebook a cui chiunque può accedere.
 
 ### Orecchie da cane

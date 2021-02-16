@@ -14,8 +14,9 @@ I **giardini digitali**, come quello che stai esplorando, sono ambienti ibridi e
 * [[Che cosa direbbe Mark Fisher dei giardini digitali]]
 
 
+<div style="height:50px"></div>
 &nbsp;
-<div style="height:100px">
+&nbsp;
 
 ## Su giardino punk
 ### Come funziona?
