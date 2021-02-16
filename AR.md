@@ -20,7 +20,7 @@ Quello che mai avrei immaginato è che la stessa Facebook facesse di tutto per i
 
 Per creare un filtro non occorre aver studiato grafica né progettazione 3D, non occorrono software costosi né competenze di grafica. Bando ai bozzetti e agli sviluppatori, e diamo il benvenuto a **_Spark AR_**.
 
-![Interfaccia](/imgs/img5.png)
+![Interfaccia](/imgs/img5.png#screen)
 
 [_Spark AR_](https://sparkar.facebook.com/ar-studio/) è un software di proprietà di Facebook, distribuito gratuitamente a chiunque voglia farne uso. L'interfaccia non è delle più invitanti, ma su YouTube si trovano [ottimi tutorial da "livello zero"](https://www.youtube.com/watch?v=mIt2fdjExy0) e si fa abbastanza in fretta a prenderci la mano. Se a questo aggiungi alcune librerie di elementi 3D come [**Sketchfab**](https://sketchfab.com/feed) il gioco è praticamente fatto.
 Con un po' di apprendistato e una certa creatività, si possono ottenere risultati molto interessanti, mascherine di diverso genere che è possibile caricare direttamente in una galleria effetti di Facebook a cui chiunque può accedere.
