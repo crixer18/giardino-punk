@@ -38,9 +38,22 @@ blockquote {
   font-style: normal;
 }
 
-a{
-  color:green;
-}
+
+a {
+	color: #54595F;
+	text-decoration:none;
+  background-image: 
+		linear-gradient(0deg, rgba(43,105,86,1) 0%, rgba(55,161,109,1) 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.15em;
+  background-position: 0 89%;
+  transition: background-size 0.25s ease-in;}
+a:hover {
+    color:white;
+	background-size: 100% 88%;
+  }
+
+
 
 .date{
   color:grey;
