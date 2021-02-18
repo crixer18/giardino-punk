@@ -1,5 +1,5 @@
 ---
-
+layout: alternative
 title: "Libri"
 description: "L'unica cosa più grande della mia ambizione e la lista dei libri che mi piacerebbe leggere."
 image: "imgs/img0.jpg"

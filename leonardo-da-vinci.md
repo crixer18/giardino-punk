@@ -1,5 +1,5 @@
 ---
-
+layout: alternative
 title: "Leonardo Da Vinci"
 description: "Le competenze trasversali sono molto ricercate nel mondo del lavoro. Ma sarà poi vero?"
 img: imgs/img0.jpg

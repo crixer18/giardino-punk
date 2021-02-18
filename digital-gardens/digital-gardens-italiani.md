@@ -1,4 +1,5 @@
 ---
+layout: alternative
 title: "Digital gardens italiani"
 image: "imgs/img0.jpg"
 

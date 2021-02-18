@@ -1,8 +1,7 @@
 ---
-
-layout: page
+layout: alternative
 title: "UX/UI"
-description: 'Ossia: tutto quello che succede all'interfaccia di un sito prima che tu lo veda'
+description: "Ossia: tutto quello che succede all'interfaccia di un sito prima che tu lo veda"
 image: "imgs/img0.jpg"
 
 ---

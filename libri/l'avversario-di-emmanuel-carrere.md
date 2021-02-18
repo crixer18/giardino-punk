@@ -1,4 +1,5 @@
 ---
+layout: alternative
 title: "L'Avversario di Emmanuel Carrere"
 description: "Un crimine o una preghiera: l’antiprocesso a Jean-Claude Romand."
 image: "imgs/img0.jpg"

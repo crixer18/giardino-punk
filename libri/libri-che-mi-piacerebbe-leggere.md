@@ -1,3 +1,11 @@
+---
+layout: alternative
+title: "Libri che mi piacerebbe leggere"
+description: "L'unica cosa più grande della mia ambizione e la lista dei libri che mi piacerebbe leggere."
+image: "imgs/img0.jpg"
+
+---
+
 # Libri che mi piacerebbe leggere
 
 - [ ] [*Dal cyborg al postumano. Biopolitica del corpo artificiale*](http://www.meltemieditore.it/catalogo/dal-cyborg-al-postumano/), di Antonio Caronia

@@ -1,5 +1,5 @@
 ---
-
+layout: alternative
 title: "Risorse"
 description: "Ecco alcuni link esterni che ti consiglio di visitare per conoscere software, persone, blog e idee che prima non conoscevi."
 image: "imgs/img0.jpg"

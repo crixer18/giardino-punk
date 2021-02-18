@@ -1,6 +1,7 @@
 ---
+layout: alternative
 title: "Ronnie Pinn"
-description: 'Cronaca di un one-man show digitale che si chiama The Ronnie Pinn Project.'
+description: "Cronaca di un one-man show digitale che si chiama The Ronnie Pinn Project."
 image: "imgs/img0.jpg"
 
 ---

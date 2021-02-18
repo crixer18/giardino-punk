@@ -1,6 +1,7 @@
 ---
+layout: alternative
 title: "post n. 0"
-description: 'Ecco come sono arrivato qui, storia della fine di un progetto chiamato "Non siamo bookblogger".'
+description: "Ecco come sono arrivato qui, storia della fine di un progetto chiamato 'Non siamo bookblogger'."
 image: "imgs/img0.jpg"
 
 ---

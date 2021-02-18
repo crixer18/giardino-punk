@@ -1,7 +1,7 @@
 ---
-
+layout: alternative
 title: "Mondo punk"
-description: 'Mark Fisher ha scritto che il punk è "una confluenza al di fuori di un uno spazio legittim(at)o".'
+description: "Mark Fisher ha scritto che il punk è 'una confluenza al di fuori di un uno spazio legittim(at)o'."
 image: "imgs/img0.jpg"
 
 ---

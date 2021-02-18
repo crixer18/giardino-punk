@@ -1,5 +1,5 @@
 ---
-
+layout: alternative
 title: "Digital gardens"
 description: "Cosa sono i digital gardens (o giardini digitali)? Scoprilo qui."
 image: "imgs/img0.jpg"

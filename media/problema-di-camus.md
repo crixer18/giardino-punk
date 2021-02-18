@@ -1,4 +1,5 @@
 ---
+layout: alternative
 title: "Il problema di Camus"
 
 ---

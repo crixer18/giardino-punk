@@ -1,4 +1,5 @@
 ---
+layout: alternative
 title: "Sostiene Pereira di Antonio Tabucchi"
 description: "Un romanzo che affronta le responsabilità di Pereira, Edipo, Macbeth e perfino Darth Vader."
 image: "imgs/img0.jpg"
