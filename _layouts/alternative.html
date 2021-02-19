@@ -16,6 +16,8 @@ layout: alternative
     <link rel="shortcut icon" href="/imgs/seedling-messenger.png">
   </head>
   <body>
+
+    <div class="panel">
       {% if site.title and site.title != page.title %}
       <h1 class="site-title"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
@@ -32,7 +34,10 @@ layout: alternative
         {% endif %}
       </div>
 
-      <a href="https://giardino-punk.vercel.app/credits" class="credits">Credits</a>
+      <a href="/credits" class="credits">Credits</a>
+
+      </div>
+      
       
       <script type="text/javascript">
         // Hack: Replace page-link with "Page Title"

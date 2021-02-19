@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Risorse | giardino punk</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Risorse" />
-<meta name="author" content="Stefano Zuliani" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Ecco alcuni link esterni che ti consiglio di visitare per conoscere software, persone, blog e idee che prima non conoscevi." />
-<meta property="og:description" content="Ecco alcuni link esterni che ti consiglio di visitare per conoscere software, persone, blog e idee che prima non conoscevi." />
-<meta property="og:site_name" content="giardino punk" />
-<meta property="og:image" content="/imgs/img0.jpg" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:image" content="/imgs/img0.jpg" />
-<meta property="twitter:title" content="Risorse" />
-<meta name="twitter:site" content="@ZulianiStph" />
-<meta name="twitter:creator" content="@waldekm" />
-<script type="application/ld+json">
-{"image":"/imgs/img0.jpg","@type":"WebPage","headline":"Risorse","url":"/risorse2/","author":{"@type":"Person","name":"Stefano Zuliani"},"description":"Ecco alcuni link esterni che ti consiglio di visitare per conoscere software, persone, blog e idee che prima non conoscevi.","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=b89568ab57b004bf71b8ab04247a7d33b321d354">
-    <link rel="stylesheet" href="/assets/css/altstyle.css">
-    <link rel="shortcut icon" href="/imgs/seedling-messenger.png">
-  </head>
-  <body>
-      
-      <h1 class="site-title"><a href="/">giardino punk</a></h1>
-      
-
-      <div class="px-3 my-5 markdown-body">
-        
-
-        <h1 id="risorse-">Risorse 📌</h1>
+I"�<h1 id="risorse-">Risorse 📌</h1>
 
 <h2 id="alcuni-articoli-veri-che-ho-scritto">Alcuni articoli “veri” che ho scritto</h2>
 
@@ -63,9 +25,16 @@
   <li><a href="http://www.eastgate.com/garden/Introduction.html">The Eastgate Garden</a></li>
 </ul>
 
-<h2 id="strumenti-che-meriti-di-scoprire">Strumenti che meriti di scoprire</h2>
+<h2 id="articoli-memorabili">Articoli memorabili</h2>
 
 <ul>
+  <li><a href="http://www.quadernidaltritempi.eu/cyberpunk-antologia-assoluta/">Una storia-continua del Movimento Cyberpunk</a> di Luca Giudici su <em>Quaderni d’altri tempi</em></li>
+</ul>
+
+<h2 id="tools-che-meriti-di-scoprire">Tools che meriti di scoprire</h2>
+
+<ul>
+  <li><a href="https://www.myfonts.com/WhatTheFont/">What The Font</a> riconosce al volo la font-family a partire da un’immagine</li>
   <li><a href="https://ricochet.im/">Ricochet</a> anonymus instant messages, ma anche <a href="https://discord.com/">Discord</a> per i gruppi</li>
   <li><a href="https://foambubble.github.io/foam/">Foam</a> per organizzare i tuoi pensieri o qualsiasi altra cosa</li>
   <li><a href="https://www.torproject.org/">Tor</a> per navigare in santa privacy</li>
@@ -79,15 +48,4 @@
   <li>Riccardo Coluccini detto <a href="https://boter.eu/">Boter</a></li>
   <li><a href="https://flaviopintarelli.it/">Flavio Pintarelli</a></li>
 </ul>
-
-
-        
-      </div>
-
-      <a href="https://giardino-punk.vercel.app/credits" class="credits">Credits</a>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    
-  </body>
-</html>
+:ET

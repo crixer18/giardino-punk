@@ -21,45 +21,43 @@
 <meta name="twitter:site" content="@ZulianiStph" />
 <meta name="twitter:creator" content="@waldekm" />
 <script type="application/ld+json">
-{"image":"/imgs/img0.jpg","@type":"WebSite","headline":"giardino punk","url":"/","sameAs":["https://twitter.com/ZulianiStph","https://www.linkedin.com/in/s-zuliani/"],"author":{"@type":"Person","name":"Stefano Zuliani"},"description":"Un ambiente tranquillo dove rifletto su alcune delle cose interessanti che si possono trovare nella Rete e fuori.","name":"Stefano Zuliani","@context":"https://schema.org"}</script>
+{"@type":"WebSite","url":"/","image":"/imgs/img0.jpg","headline":"giardino punk","sameAs":["https://twitter.com/ZulianiStph","https://www.linkedin.com/in/s-zuliani/"],"author":{"@type":"Person","name":"Stefano Zuliani"},"description":"Un ambiente tranquillo dove rifletto su alcune delle cose interessanti che si possono trovare nella Rete e fuori.","name":"Stefano Zuliani","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=b89568ab57b004bf71b8ab04247a7d33b321d354">
+    <link rel="stylesheet" href="/assets/css/style.css?v=576347677e0c30d47add5441e7087d7b1e20d0a6">
     <link rel="stylesheet" href="/assets/css/altstyle.css">
     <link rel="stylesheet" href="/assets/css/homealtstyle.css">
     <link rel="shortcut icon" href="/imgs/seedling-messenger.png">
   </head>
   <body>
-    <a href="/" class="credits">Credits</a>
+    <div class="panel">
+
       
       <h1 class="site-title">giardino punk</h1>
       
 
-
-
       <div class="px-3 my-5 markdown-body">
-        
+
         <hr />
 
-<p>Ciao! Mi chiamo Stefano, sono un comunicatore digitale appassionato di letterature e tecnologie. Questo è un ambiente in-progress, dove rifletto su alcune delle cose interessanti in cui mi sono imbattuto fuori e dentro la Rete. Ecco una lista delle [<a href="cose-di-cui-mi-piacerebbe-parlarti.md" title="Cose di cui mi piacerebbe parlarti">cose di cui mi piacerebbe parlarti</a>].</p>
+<p>Ciao! Mi chiamo Stefano, sono un comunicatore digitale appassionato di letterature e tecnologie. Questo è un ambiente in-progress, dove rifletto su alcune delle cose interessanti in cui mi sono imbattuto fuori e dentro la Rete.</p>
 
-<p>🚀 In questi giorni sto: lavorando a <strong>The [<a href="media/ronnie-pinn.md" title="Ronnie Pinn">Ronnie Pinn</a>] Project</strong> (presto online).</p>
+<p>⏳ Ecco una lista di [<a href="cose-di-cui-mi-piacerebbe-parlarti.md" title="Cose di cui mi piacerebbe parlarti">cose di cui mi piacerebbe parlarti</a>].</p>
 
-<p>👾 Che tu ci creda o meno, questo sito <strong>non</strong> usa cookie di terze parti.</p>
+<p>🚀 In questi giorni sto: lavorando a <strong>Lilium Digital Garden Template for Jekyll</strong>.</p>
 
 <hr />
 
-<p>Storie recenti:</p>
+<p>Da dove partire:</p>
 
-<ul>
-  <li>[<a href="AR.md" title="AR">AR</a>]</li>
-  <li>[<a href="digital-gardens/che-cosa-direbbe-mark-fisher-dei-giardini-digitali.md" title="Che cosa direbbe Mark Fisher dei giardini digitali">che-cosa-direbbe-mark-fisher-dei-giardini-digitali</a>]</li>
-  <li>[<a href="media/non-pensare-all'elefante.md" title="post n. 0">non-pensare-all’elefante</a>]</li>
-</ul>
+<p>👓 Dalle novità in fatto di [<a href="AR.md" title="Augmented Reality">AR</a>]</p>
 
-<div style="height:30px"></div>
+<p>🏠 Dall’inizio, con il [<a href="media/non-pensare-all'elefante.md" title="post n. 0">non-pensare-all’elefante</a>]</p>
 
-<p>Comincia a esplorare:</p>
+<p>Da prima ancora: [<a href="digital-gardens/che-cosa-direbbe-mark-fisher-dei-giardini-digitali.md" title="Che cosa direbbe Mark Fisher dei giardini digitali">che-cosa-direbbe-mark-fisher-dei-giardini-digitali</a>]</p>
+
+<p>O da un argomento:</p>
+
 <h3 id="-mondo-punk">💣 [<a href="mondo-punk.md" title="Mondo punk">Mondo punk</a>]</h3>
 
 <h3 id="-media">💻 [<a href="media/media.md" title="Media">Media</a>]</h3>
@@ -70,11 +68,32 @@
 
 <h3 id="-risorse">📌 [<a href="risorse.md" title="Risorse">Risorse</a>]</h3>
 
+<hr />
+
+<div style="height:50px"></div>
+
+<p>👾 Che tu ci creda o meno, questo sito <strong>non</strong> usa cookie di terze parti.</p>
+
 
 
       </div>
 
-      
+      <a href="/credits" class="credits">Credits</a>
+
+    </div>
+
+      <script type="text/javascript">
+        // Hack: Replace page-link with "Page Title"
+        document.querySelectorAll(".markdown-body a[title]").forEach((a) => {
+        a.innerText = a.title;
+        });
+        // Hack: Remove .md extension from wikilinks to get the html in jekyll
+        document.querySelectorAll("a").forEach(l => {
+          if (l.href.endsWith('.md')) {
+            l.href = l.href.substring(0, l.href.length-3)
+          }
+        })
+      </script> 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>

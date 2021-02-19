@@ -21,14 +21,16 @@
 <meta name="twitter:site" content="@ZulianiStph" />
 <meta name="twitter:creator" content="@waldekm" />
 <script type="application/ld+json">
-{"image":"/imgs/img0.jpg","@type":"WebPage","headline":"post n. 0","url":"/media/non-pensare-all'elefante/","author":{"@type":"Person","name":"Stefano Zuliani"},"description":"Ecco come sono arrivato qui, storia della fine di un progetto chiamato ‘Non siamo bookblogger’.","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"/media/non-pensare-all'elefante/","image":"/imgs/img0.jpg","headline":"post n. 0","author":{"@type":"Person","name":"Stefano Zuliani"},"description":"Ecco come sono arrivato qui, storia della fine di un progetto chiamato ‘Non siamo bookblogger’.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=b89568ab57b004bf71b8ab04247a7d33b321d354">
+    <link rel="stylesheet" href="/assets/css/style.css?v=576347677e0c30d47add5441e7087d7b1e20d0a6">
     <link rel="stylesheet" href="/assets/css/altstyle.css">
     <link rel="shortcut icon" href="/imgs/seedling-messenger.png">
   </head>
   <body>
+
+    <div class="panel">
       
       <h1 class="site-title"><a href="/">giardino punk</a></h1>
       
@@ -101,7 +103,23 @@
         
       </div>
 
-      <a href="https://giardino-punk.vercel.app/credits" class="credits">Credits</a>
+      <a href="/credits" class="credits">Credits</a>
+
+      </div>
+      
+      
+      <script type="text/javascript">
+        // Hack: Replace page-link with "Page Title"
+        document.querySelectorAll(".markdown-body a[title]").forEach((a) => {
+        a.innerText = a.title;
+        });
+        // Hack: Remove .md extension from wikilinks to get the html in jekyll
+        document.querySelectorAll("a").forEach(l => {
+          if (l.href.endsWith('.md')) {
+            l.href = l.href.substring(0, l.href.length-3)
+          }
+        })
+      </script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>

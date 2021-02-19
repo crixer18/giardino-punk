@@ -1,21 +1,17 @@
 .site-title{
-  display: flex;
-  justify-content: right;
-  padding: 0px 50px 20px 50px;
-  color:green;
+  display: block;
+  padding: 20px 30px 20px 30px;
+  color: blueviolet;
   font-family: brandon-grotesque,sans-serif;
   font-weight: 400;
   font-size:60px;
+  text-align: right;
 }
 
-.credits{
-  display: flex;
-  justify-content: right;
-  margin: 50px 50px 0px 50px;
-  color: #666666;
-  font-family: brandon-grotesque,sans-serif;
-  font-weight: 400;
-  font-size:14px;
-  text-transform: uppercase;
-  background-image: none;
+.markdown-body{
+  padding-bottom:0px;
+}
+
+h3 a{
+font-weight: 600;
 }

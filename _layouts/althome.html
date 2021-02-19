@@ -17,18 +17,21 @@ layout: althome
     <link rel="shortcut icon" href="/imgs/seedling-messenger.png">
   </head>
   <body>
-    <a href="/" class="credits">Credits</a>
+    <div class="panel">
+
       {% if site.title %}
       <h1 class="site-title">{{ site.title }}</h1>
       {% endif %}
 
-
-
       <div class="px-3 my-5 markdown-body">
-        
+
         {{ content }}
 
       </div>
+
+      <a href="/credits" class="credits">Credits</a>
+
+    </div>
 
       <script type="text/javascript">
         // Hack: Replace page-link with "Page Title"
