@@ -11,11 +11,11 @@ image: "imgs/img0.jpg"
 ## Alcuni articoli "veri" che ho scritto
 
 
-* [La grande lezione del floppy disk](http://www.typoes.it/2020/10/14/floppy-disk-icona/). Tutto quello che un'icona può insegnarci per fare pace con la nostra obsolescenza 💾
+💾 [La grande lezione del floppy disk](http://www.typoes.it/2020/10/14/floppy-disk-icona/). Tutto quello che un'icona può insegnarci per fare pace con la nostra obsolescenza
 
-* [Adam e le macchine d’autore](http://www.typoes.it/2019/11/16/macchine-come-me-di-ian-mcewan/) *Macchine come me* di Ian McEwan ci dimostra che nella letteratura c'è spazio per i robot (e se non c'è, è il momento di darglielo) 🤖
+🤖 [Adam e le macchine d’autore](http://www.typoes.it/2019/11/16/macchine-come-me-di-ian-mcewan/) *Macchine come me* di Ian McEwan ci dimostra che nella letteratura c'è spazio per i robot (e se non c'è, è il momento di darglielo)
 
-* [Freedom of self-defining — explained to Italian trans-exclusive feminists](https://medium.com/@ZulianiStph/freedom-of-self-defining-explained-to-italian-trans-exclusive-feminists-4c184394662f) 🏳️‍🌈
+🏳️‍🌈 [Freedom of self-defining — explained to Italian trans-exclusive feminists](https://medium.com/@ZulianiStph/freedom-of-self-defining-explained-to-italian-trans-exclusive-feminists-4c184394662f)
 
 ## Siti che comincerei a frequentare se fossi in te e non li conoscessi
 

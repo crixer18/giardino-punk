@@ -56,7 +56,7 @@ Un problema consistente era quello dell’ironia. Se su Instagram il popolo digi
 
 Per fortuna la nuova social media manager era una di classe, non so se mi spiego:
 
-<img src="imgs/img1.jpg" alt="le notti bianche dostoevskij meme" style="align:center;" />
+![le notti bianche dostoevskij meme](/imgs/img1.jpg)
 
 Peccato che è durata poco. Se a questo aggiungi [[problema di Camus]], con cui ogni social media manager culturale deve fare i conti almeno una volta nella vita, e poi il fatto che a ogni festa comandata restavo io da solo a ballare l’Alligalli con tutti i social sul groppone e a produrre contenuti e naturalmente occorreva che leggessi libri nel frattempo… beh, è arrivato il momento in cui mi sono detto che la vita non è abbastanza lunga.
 

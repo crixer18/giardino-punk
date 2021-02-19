@@ -1,6 +1,6 @@
 
 body{
-    background-image: url("/attachments/bk1.jpg");
+  background-image: url("/attachments/bk1.jpg");
   background-size: 145%;
   background-repeat: repeat;
   background-position:center;
@@ -10,5 +10,5 @@ body{
 }
 
 .panel{
-    padding-bottom:30px;
+  padding-bottom:30px;
 }
