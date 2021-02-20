@@ -72,7 +72,6 @@ body{
   margin-right:auto;
 }
 
-
 .markdown-body .date{
   color:grey;
   font-size: 16px;
@@ -115,7 +114,6 @@ input.task-list-item-checkbox {
     border-bottom: 1px solid #999999;
 }
 
-
 .markdown-body blockquote{
   margin: 5px 25px 30px 25px;
   padding: 5px 20px 5px 20px;
@@ -124,14 +122,20 @@ input.task-list-item-checkbox {
   border-radius:5px;
 }
 
-.markdown-body blockquote p{
+.markdown-body blockquote p, .markdown-body blockquote a{
     font-family: brandon-grotesque,sans-serif;
     font-weight: 500;
-    font-size: 1.2em;
-    letter-spacing: -0.04em;
+    font-size: 18px;
+    letter-spacing: -0.03em;
     font-style: normal;
-    color: #666666;
-    
+    color: #999999;
+}
+.markdown-body blockquote a:hover{
+  color:white;
+}
+.markdown-body strong{
+  font-weight: 600;
+  color:#cccccc;
 }
 
 a {
@@ -156,6 +160,7 @@ h1 a, h2 a, h3 a{
 }
 h1 a:hover, h2 a:hover, h3 a:hover{
   color: blue;
+  filter:drop-shadow(2px 2px 5px blue);
 }
 
 .markdown-body img{

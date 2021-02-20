@@ -2,7 +2,7 @@
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/crixer18/progetto2",
-  "build_revision": "3ffa2ab473be75074e24d61c07836c4572204af2",
+  "build_revision": "75dfe78191dc37b8764a7b7d7ecdc41e391eeb4d",
   "clone_url": "https://github.com/crixer18/progetto2.git",
   "contributors": [
     {
@@ -24,7 +24,7 @@
       "received_events_url": "https://api.github.com/users/crixer18/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 12
+      "contributions": 13
     }
   ],
   "disabled": false,
@@ -140,14 +140,14 @@
       "releases_url": "https://api.github.com/repos/crixer18/giardino-punk/releases{/id}",
       "deployments_url": "https://api.github.com/repos/crixer18/giardino-punk/deployments",
       "created_at": "2021-02-04 01:54:51 UTC",
-      "updated_at": "2021-02-19 16:47:19 UTC",
-      "pushed_at": "2021-02-19 16:47:16 UTC",
+      "updated_at": "2021-02-19 21:15:19 UTC",
+      "pushed_at": "2021-02-19 21:15:17 UTC",
       "git_url": "git://github.com/crixer18/giardino-punk.git",
       "ssh_url": "git@github.com:crixer18/giardino-punk.git",
       "clone_url": "https://github.com/crixer18/giardino-punk.git",
       "svn_url": "https://github.com/crixer18/giardino-punk",
       "homepage": "https://giardino-punk.vercel.app",
-      "size": 13068,
+      "size": 13223,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",

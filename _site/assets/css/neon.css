@@ -1,0 +1,49 @@
+
+hr.neon-blue{
+  filter:drop-shadow(2px 2px 5px blue);
+  background-color: blue;
+  border-radius:5px;
+  width: 50%;
+  height: 0.25em;
+  padding: 0;
+  margin: 50px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+hr.neon-green{
+  filter:drop-shadow(2px 2px 5px greenyellow);
+  background-color: greenyellow;
+  border-radius:5px;
+  width: 50%;
+  height: 0.25em;
+  padding: 0;
+  margin: 50px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+hr.neon-fuchsia{
+  filter:drop-shadow(2px 2px 5px fuchsia);
+  background-color: fuchsia;
+  border-radius:5px;
+  width: 50%;
+  height: 0.25em;
+  padding: 0;
+  margin: 50px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+
+hr.neon-lightblue{
+  filter:drop-shadow(2px 2px 5px cyan);
+  background-color: cyan;
+  border-radius:5px;
+  width: 50%;
+  height: 0.25em;
+  padding: 0;
+  margin: 50px;
+  margin-left:auto;
+  margin-right:auto;
+}
