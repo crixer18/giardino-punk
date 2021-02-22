@@ -5,9 +5,9 @@ title: "Credits"
 
 Mi chiamo [Stefano Zuliani](https://zulianis.eu) e **giardino punk** è il mio digital garden.
 
-È realizzato con [Foam](https://foambubble.github.io/foam/) e [Jekyll](https://jekyllrb.com/), su un template che ho creato a partire da Jekyll Theme Primer di [Kros Dai](https://www.xdanger.com/).
+È realizzato con [Foam](https://foambubble.github.io/foam/) e [Jekyll](https://jekyllrb.com/), su un template che ho creato a partire da Jekyll Theme Primer di [Kros Dai](https://www.xdanger.com/). Queste bellissime immagini di sfondo sono raccolte [qui](https://unsplash.com/collections/18838201/giardino-punk-backgrounds).
 
-L'ultima modifica è del 19 febbraio 2021.
+L'ultima modifica è del 22 febbraio 2021.
 
 Per restare aggiornat* seguimi su [Twitter](https://twitter.com/ZulianiStph) o iscriviti alla [newsletter](mailto:web@zulianis.eu?subject=Newsletter&body=Ciao!%20Vorrei%20iscrivermi%20alla%20newsletter%20di%20giardino%20punk).
 
