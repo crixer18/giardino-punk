@@ -3,7 +3,7 @@ layout: alternative
 title: Digital Gardeners
 description: Chi sono questi strani individui che si aggirano per il web con le mani sporche di terriccio?
 date: 2021-02-22
-img: /imgs/img0.png
+img: /imgs/img6.jpg
 ---
 
 # Digital Gardeners
