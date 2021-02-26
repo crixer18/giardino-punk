@@ -1,59 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Risorse | giardino punk</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Risorse" />
-<meta name="author" content="Stefano Zuliani" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Ecco alcuni link esterni che ti consiglio di visitare per conoscere software, persone, blog e idee che prima non conoscevi." />
-<meta property="og:description" content="Ecco alcuni link esterni che ti consiglio di visitare per conoscere software, persone, blog e idee che prima non conoscevi." />
-<meta property="og:site_name" content="giardino punk" />
-<meta property="og:image" content="/imgs/img0.jpg" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:image" content="/imgs/img0.jpg" />
-<meta property="twitter:title" content="Risorse" />
-<meta name="twitter:site" content="@ZulianiStph" />
-<meta name="twitter:creator" content="@waldekm" />
-<script type="application/ld+json">
-{"@type":"WebPage","url":"/risorse/","image":"/imgs/img0.jpg","headline":"Risorse","author":{"@type":"Person","name":"Stefano Zuliani"},"description":"Ecco alcuni link esterni che ti consiglio di visitare per conoscere software, persone, blog e idee che prima non conoscevi.","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6HDSQXT8C4"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-6HDSQXT8C4');
-    </script>
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=593c2ffa25c166f011a75137bdbae0d14dfd78f4">
-    <link rel="stylesheet" href="/assets/css/altstyle.css">
-    <link rel="stylesheet" href="/assets/css/neon.css">
-    <link rel="shortcut icon" href="/imgs/favicon.png">
-  </head>
-  <body>
-
-    <div class="language">
-      <a href="/risorse/-en">🇬🇧</a><br> 🇮🇹
-    </div>
-
-    <div class="panel" id="up">
-      
-      <h1 class="site-title"><a href="/">giardino punk</a></h1>
-      
-
-      <div class="px-3 my-5 markdown-body">
-
-        <h1 id="risorse-">Risorse 📌</h1>
+I"�<h1 id="risorse-ma-in-inglese-">Risorse ma in inglese 📌</h1>
 
 <p>🚪 Hai mai visto <a href="https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html">la prima pagina web della Storia</a>?</p>
 
@@ -109,33 +54,4 @@
 <p>🤖 <a href="http://www.typoes.it/2019/11/16/macchine-come-me-di-ian-mcewan/">Adam e le macchine d’autore</a> <em>Macchine come me</em> di Ian McEwan ci dimostra che nella letteratura c’è spazio per i robot (e se non c’è, è il momento di darglielo)</p>
 
 <p>🏳️‍🌈 <a href="https://medium.com/@ZulianiStph/freedom-of-self-defining-explained-to-italian-trans-exclusive-feminists-4c184394662f">Freedom of self-defining — explained to Italian trans-exclusive feminists</a></p>
-
-
-        
-      </div>
-
-      <a href="#up" class="up"><img src="/attachments/up.png" class="uparrow" /></a>
-
-      <a href="/credits" class="credits">Credits</a>
-
-      </div>
-      
-      
-      <script type="text/javascript">
-        // Hack: Replace page-link with "Page Title"
-        document.querySelectorAll(".markdown-body a[title]").forEach((a) => {
-        a.innerText = a.title;
-        });
-        // Hack: Remove .md extension from wikilinks to get the html in jekyll
-        document.querySelectorAll("a").forEach(l => {
-          if (l.href.endsWith('.md')) {
-            l.href = l.href.substring(0, l.href.length-3)
-          }
-        })
-      </script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    
-  </body>
-</html>
+:ET

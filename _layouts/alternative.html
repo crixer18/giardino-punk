@@ -29,13 +29,16 @@ layout: alternative
   </head>
   <body>
 
+    <div class="language">
+      <a href="{{ page.url }}-en">🇬🇧</a><br> 🇮🇹
+    </div>
+
     <div class="panel" id="up">
       {% if site.title and site.title != page.title %}
       <h1 class="site-title"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
 
       <div class="px-3 my-5 markdown-body">
-        
 
         {{ content }}
 
