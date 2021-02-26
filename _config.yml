@@ -1,9 +1,9 @@
 title: giardino punk
 description: Mi chiamo Stefano e questo è il mio giardino digitale.
-image: /imgs/img0.jpg
+image: imgs/img0.jpg
 author:
   name: Stefano Zuliani
-  twitter: waldekm
+  twitter: ZulianiStph
 twitter:
   username: ZulianiStph
   card: summary
@@ -23,6 +23,6 @@ plugins:
 # The default Jekyll theme we will be using
 theme: jekyll-theme-primer
 # The GitHub repository that we are hosting our foam workspace from [default is user/repo]
-repository: crixer18/progetto2
+repository: crixer18/giadino-punk
 # Generate permalinks in format specified in: https://jekyllrb.com/docs/permalinks/#built-in-formats
 permalink: pretty

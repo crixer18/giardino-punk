@@ -29,9 +29,7 @@ layout: alternative
   </head>
   <body>
 
-    <div class="language">
-      <a href="{{ page.url }}-en">🇬🇧</a><br> 🇮🇹
-    </div>
+    {% include language.html %}
 
     <div class="panel" id="up">
       {% if site.title and site.title != page.title %}
