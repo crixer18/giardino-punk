@@ -12,7 +12,7 @@ Ciao! Mi chiamo Stefano, sono un comunicatore digitale appassionato di letteratu
 
 ⏳ Ecco una lista di [[cose di cui mi piacerebbe parlarti]].
 
-🚀 In questi giorni sto: lavorando a **Lilium Digital Garden Template for Jekyll**.
+🚀 In questi giorni sto: lavorando a [**Lilium Digital Garden Template for Jekyll**](https://lilium-digital-garden-jekyll.vercel.app/).
 
 
 <hr>

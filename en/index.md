@@ -10,7 +10,7 @@ image: "imgs/img0.jpg"
 
 Hi there! My name is Stefano, I'm an italian communicator and this is my digital garden. I'm sorry that there's not much to read in english yet.
 
-🚀 Right now I'm working on **Lilium Digital Garden Template for Jekyll**.
+🚀 Right now I'm working on [**Lilium Digital Garden Template for Jekyll**](https://lilium-digital-garden-jekyll.vercel.app/).
 
 Follow me on [Twitter](https://twitter.com/ZulianiStph) to know the updates.
 
