@@ -1,5 +1,5 @@
 ---
-layout: alternative
+layout: note
 title: Random Access Memories dei Daft Punk
 date: 2021-02-23
 ---

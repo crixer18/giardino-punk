@@ -20,7 +20,7 @@
 <meta name="twitter:site" content="@ZulianiStph" />
 <meta name="twitter:creator" content="@ZulianiStph" />
 <script type="application/ld+json">
-{"sameAs":["https://twitter.com/ZulianiStph","https://www.linkedin.com/in/s-zuliani/"],"url":"/","@type":"WebSite","author":{"@type":"Person","name":"Stefano Zuliani"},"description":"Un ambiente tranquillo dove rifletto su alcune delle cose interessanti che si possono trovare nella Rete e fuori.","image":"/imgs/img0.jpg","name":"Stefano Zuliani","headline":"giardino punk","@context":"https://schema.org"}</script>
+{"image":"/imgs/img0.jpg","@type":"WebSite","headline":"giardino punk","url":"/","sameAs":["https://twitter.com/ZulianiStph","https://www.linkedin.com/in/s-zuliani/"],"author":{"@type":"Person","name":"Stefano Zuliani"},"description":"Un ambiente tranquillo dove rifletto su alcune delle cose interessanti che si possono trovare nella Rete e fuori.","name":"Stefano Zuliani","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -32,9 +32,10 @@
 
       gtag('config', 'G-6HDSQXT8C4');
     </script>
-    <link rel="stylesheet" href="/assets/css/style.css?v=bdf3a095b903a21e686af4109878c0ebdef35b24">
+    <link rel="stylesheet" href="/assets/css/style.css?v=81c3f2a91408d0ab5e52aa6d998a89e843c1ca2d">
 <link rel="stylesheet" href="/assets/css/altstyle.css">
 <link rel="stylesheet" href="/assets/css/neon.css">
+<link rel="stylesheet" href="/assets/css/backlinks.css">
 <link rel="shortcut icon" href="/imgs/favicon.png">
     <link rel="stylesheet" href="/assets/css/homealtstyle.css">
   </head>
@@ -62,7 +63,7 @@
 
 <p>⏳ Ecco una lista di [<a href="cose-di-cui-mi-piacerebbe-parlarti.md" title="Cose di cui mi piacerebbe parlarti">cose di cui mi piacerebbe parlarti</a>].</p>
 
-<p>🚀 In questi giorni sto: lavorando a <strong>Lilium Digital Garden Template for Jekyll</strong>.</p>
+<p>🚀 In questi giorni sto: lavorando a <a href="https://lilium-digital-garden-jekyll.vercel.app/"><strong>Lilium Digital Garden Template for Jekyll</strong></a>.</p>
 
 <hr />
 
@@ -103,6 +104,19 @@
 <p>👾 Che tu ci creda o meno, questo sito <strong>non</strong> usa cookie di terze parti.</p>
 
 
+
+<script type="text/javascript">
+  // Hack: Replace page-link with "Page Title"
+  document.querySelectorAll(".markdown-body a[title]").forEach((a) => {
+    a.innerText = a.title;
+  });
+  // Hack: Remove .md extension from wikilinks to get the html in jekyll
+  document.querySelectorAll("a").forEach(l => {
+    if (l.href.endsWith('.md')) {
+      l.href = l.href.substring(0, l.href.length-3)
+    }
+  })
+</script>
 
       </div>
 

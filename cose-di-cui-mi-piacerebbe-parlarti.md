@@ -1,5 +1,5 @@
 ---
-layout: alternative
+layout: list
 title: "Cose di cui mi piacerebbe parlarti"
 description: "Ecco una lista di topics interessanti di cui il mio digital garden è sfornito. Per ora."
 image: "imgs/img0.jpg"
