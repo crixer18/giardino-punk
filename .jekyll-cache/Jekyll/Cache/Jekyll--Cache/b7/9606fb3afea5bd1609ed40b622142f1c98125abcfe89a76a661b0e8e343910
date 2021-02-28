@@ -1,8 +1,8 @@
-I"�\{"source"=>"/home/crixer/git/giardino-punk", "destination"=>"/home/crixer/git/giardino-punk/_site", "collections_dir"=>"", "cache_dir"=>".jekyll-cache", "plugins_dir"=>"_plugins", "layouts_dir"=>"_layouts", "data_dir"=>"_data", "includes_dir"=>"_includes", "collections"=>{"posts"=>{"output"=>true, "permalink"=>"/:categories/:year/:month/:day/:title/"}}, "safe"=>false, "include"=>[".htaccess"], "exclude"=>[".sass-cache", ".jekyll-cache", "gemfiles", "Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"], "keep_files"=>[".git", ".svn"], "encoding"=>"utf-8", "markdown_ext"=>"markdown,mkdown,mkdn,mkd,md", "strict_front_matter"=>false, "show_drafts"=>nil, "limit_posts"=>0, "future"=>false, "unpublished"=>false, "whitelist"=>[], "plugins"=>["jekyll-default-layout", "jekyll-relative-links", "jekyll-readme-index", "jekyll-titles-from-headings", "jekyll-optional-front-matter", "jekyll-seo-tag"], "markdown"=>"kramdown", "highlighter"=>"rouge", "lsi"=>false, "excerpt_separator"=>"\n\n", "incremental"=>false, "detach"=>false, "port"=>"4000", "host"=>"127.0.0.1", "baseurl"=>nil, "show_dir_listing"=>false, "permalink"=>"pretty", "paginate_path"=>"/page:num", "timezone"=>nil, "quiet"=>false, "verbose"=>false, "defaults"=>[], "liquid"=>{"error_mode"=>"warn", "strict_filters"=>false, "strict_variables"=>false}, "kramdown"=>{"auto_ids"=>true, "toc_levels"=>[1, 2, 3, 4, 5, 6], "entity_output"=>"as_char", "smart_quotes"=>"lsquo,rsquo,ldquo,rdquo", "input"=>"GFM", "hard_wrap"=>false, "guess_lang"=>true, "footnote_nr"=>1, "show_warnings"=>false}, "title"=>"giardino punk", "description"=>"Mi chiamo Stefano e questo è il mio giardino digitale.", "image"=>"imgs/img0.jpg", "author"=>{"name"=>"Stefano Zuliani", "twitter"=>"ZulianiStph"}, "twitter"=>{"username"=>"ZulianiStph", "card"=>"summary"}, "social"=>{"name"=>"Stefano Zuliani", "links"=>["https://twitter.com/ZulianiStph", "https://www.linkedin.com/in/s-zuliani/"]}, "theme"=>"jekyll-theme-primer", "repository"=>"crixer18/giadino-punk", "livereload_port"=>35729, "serving"=>true, "watch"=>true, "url"=>nil, "github"=>{
+I">]{"source"=>"/home/crixer/git/giardino-punk", "destination"=>"/home/crixer/git/giardino-punk/_site", "collections_dir"=>"", "cache_dir"=>".jekyll-cache", "plugins_dir"=>"_plugins", "layouts_dir"=>"_layouts", "data_dir"=>"_data", "includes_dir"=>"_includes", "collections"=>{"posts"=>{"output"=>true, "permalink"=>"/:categories/:year/:month/:day/:title/"}}, "safe"=>false, "include"=>[".htaccess"], "exclude"=>[".sass-cache", ".jekyll-cache", "gemfiles", "Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"], "keep_files"=>[".git", ".svn"], "encoding"=>"utf-8", "markdown_ext"=>"markdown,mkdown,mkdn,mkd,md", "strict_front_matter"=>false, "show_drafts"=>nil, "limit_posts"=>0, "future"=>false, "unpublished"=>false, "whitelist"=>[], "plugins"=>["jekyll-default-layout", "jekyll-relative-links", "jekyll-readme-index", "jekyll-titles-from-headings", "jekyll-optional-front-matter", "jekyll-seo-tag"], "markdown"=>"kramdown", "highlighter"=>"rouge", "lsi"=>false, "excerpt_separator"=>"\n\n", "incremental"=>false, "detach"=>false, "port"=>"4000", "host"=>"127.0.0.1", "baseurl"=>nil, "show_dir_listing"=>false, "permalink"=>"pretty", "paginate_path"=>"/page:num", "timezone"=>nil, "quiet"=>false, "verbose"=>false, "defaults"=>[], "liquid"=>{"error_mode"=>"warn", "strict_filters"=>false, "strict_variables"=>false}, "kramdown"=>{"auto_ids"=>true, "toc_levels"=>[1, 2, 3, 4, 5, 6], "entity_output"=>"as_char", "smart_quotes"=>"lsquo,rsquo,ldquo,rdquo", "input"=>"GFM", "hard_wrap"=>false, "guess_lang"=>true, "footnote_nr"=>1, "show_warnings"=>false, "syntax_highlighter"=>"rouge", "syntax_highlighter_opts"=>{:default_lang=>"plaintext", :guess_lang=>true}, "coderay"=>{}}, "title"=>"giardino punk", "description"=>"Mi chiamo Stefano e questo è il mio giardino digitale.", "image"=>"imgs/img0.jpg", "author"=>{"name"=>"Stefano Zuliani", "twitter"=>"ZulianiStph"}, "twitter"=>{"username"=>"ZulianiStph", "card"=>"summary"}, "social"=>{"name"=>"Stefano Zuliani", "links"=>["https://twitter.com/ZulianiStph", "https://www.linkedin.com/in/s-zuliani/"]}, "theme"=>"jekyll-theme-primer", "repository"=>"crixer18/giadino-punk", "livereload_port"=>35729, "serving"=>true, "watch"=>true, "url"=>nil, "github"=>{
   "api_url": "https://api.github.com",
   "archived": null,
   "baseurl": "/pages/crixer18/giadino-punk",
-  "build_revision": "928aaf8aab1d61b57642dcaf4cc858f3c0c70665",
+  "build_revision": "b44e8d50300dbc0e1f7d41cc87c5502af7aa4da1",
   "clone_url": "https://github.com/crixer18/giadino-punk.git",
   "contributors": false,
   "disabled": null,
@@ -40,7 +40,7 @@
     "public_gists": 0,
     "public_repos": 3,
     "type": "User",
-    "updated_at": "2021-02-26 16:43:26 UTC"
+    "updated_at": "2021-02-28 10:27:40 UTC"
   },
   "owner_gravatar_url": "https://github.com/crixer18.png",
   "owner_name": "crixer18",
@@ -221,8 +221,8 @@
       "releases_url": "https://api.github.com/repos/crixer18/giardino-punk/releases{/id}",
       "deployments_url": "https://api.github.com/repos/crixer18/giardino-punk/deployments",
       "created_at": "2021-02-04 01:54:51 UTC",
-      "updated_at": "2021-02-27 10:08:36 UTC",
-      "pushed_at": "2021-02-27 10:08:34 UTC",
+      "updated_at": "2021-02-28 10:27:45 UTC",
+      "pushed_at": "2021-02-28 10:27:43 UTC",
       "git_url": "git://github.com/crixer18/giardino-punk.git",
       "ssh_url": "git@github.com:crixer18/giardino-punk.git",
       "clone_url": "https://github.com/crixer18/giardino-punk.git",
