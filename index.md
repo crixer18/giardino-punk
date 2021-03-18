@@ -33,7 +33,7 @@ Ciao! Mi chiamo Stefano, sono un comunicatore digitale appassionato di letteratu
 
 [//]: # 💫 L'[[estetica-neon]] di questo ambiente
 
-L'ultimo aggiornamento è del **28 febbraio 2021**.
+L'ultimo aggiornamento è del **18 marzo 2021**.
 
 <hr>
 
@@ -43,7 +43,7 @@ L'ultimo aggiornamento è del **28 febbraio 2021**.
 
 ### 🎶 [[musica]]
 
-[//]: # ### ⚗️ Gender Blender
+### ⚗️ [[gender-blender]]
 
 ### 💣 [[Mondo punk]]
 
@@ -69,6 +69,7 @@ L'ultimo aggiornamento è del **28 febbraio 2021**.
 [Media]: media/media.md "Media"
 [Libri]: libri/libri.md "Libri"
 [musica]: musica/musica.md "Musica"
+[gender-blender]: gender-blender.md "gender-blender"
 [Mondo punk]: mondo-punk.md "Mondo punk"
 [Risorse]: risorse.md "Risorse"
 [cose di cui mi piacerebbe parlarti]: cose-di-cui-mi-piacerebbe-parlarti.md "Cose di cui mi piacerebbe parlarti"

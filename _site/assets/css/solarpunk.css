@@ -1,0 +1,23 @@
+body{
+  background-image: url("/attachments/bk3.jpg");
+  background-size: 100%;
+  background-repeat: repeat;
+  background-position:center;
+  background-attachment: fixed;
+  background-color: #333333;
+}
+
+.panel{
+    background-color: whitesmoke;
+}
+
+.markdown-body h1{
+    color:green;
+}
+
+.markdown-body p, .markdown-body strong, .markdown-body em, .markdown-body a{
+    color: #333333;
+}
+.markdown-body a:hover{
+    color:white;
+}
