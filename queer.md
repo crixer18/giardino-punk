@@ -8,7 +8,7 @@ image: "imgs/img0.jpg"
 
 # Queer
 
-## Una storia al maschile singolare
+## Il pensiero della molteplicità che saremmo pout* essere
 
 Non è utile dare qui una definizione della parola "queer" nè provare a riassumere quelle che sono le principali correnti che attraversano lo sviluppo delle teorie queer (se ti interessa però ti consiglio [questo libricino](http://mimesisedizioni.it/le-teorie-queer.html)). Mi limiterò a dire cosa significa il queer *per me*, e sono sicuro che potresti pensarla diversamente e potresti perfino avere ragione.
 
@@ -18,6 +18,10 @@ Negare il genere - a questo ci tengo - non significa assolutamente negare il sen
 
 Con una specie di sineddoche, intendo per "queer" ogni tendenza ad abbattere le categorie linguistiche e concettuali che hanno finora prodotto disparità nel nostro mondo, o che comunque sono state trasferite da semplici termini dscrittivi a ruoli normativi (modelli d'azione o di comportamento che, ci si apetta, i partecipanti di quella categoria incarneranno). Se da un lato infatti fa parte del linguaggio e del pensiero umani l'atto di dividere l'una cosa dall'altra mediante nomi diversi e in certa misura opposti, separare i concetti per renderli pensabili, se quindi non può forse esistere una forma estrema ed assoluta di queer che abbatta per intero le schematizzazioni, credo fermamente che ci sia un problema con le schematizzazioni che attualmente la cultura ci consegna, visibilissimo in fenomeni come la polarizzazione, lo svuotamento della parola o al contrario iper-connotazione, le semplificazioni, la nostra totale incosceinza del potere effettivo, performativo prima ancora che politico, della parola.
 
-Da un punto di vista queer, quindi, quello su cui posso soffermarmi non è tanto il concetto di uomo e donna, concetto che ci viene dalla storia della nostra civiltà e forse della nostra specie, ma l'identificazione forzata (almeno parziale) di un individuo libero con una categoria che gli preesisteva e della quale non è consapevole. Abbiamo raggiunto un livello di normalizzazione della postverità così avanzato che, io credo, possiamo anche permetterci di fantasticare su un umano "post-*logos*". Questo è ciò che *il mio* queer vorrebbe ispirare.
+Da un punto di vista queer, quindi, quello su cui voglio soffermarmi non è tanto il concetto di uomo e donna, concetto che ci viene dalla storia della nostra civiltà e forse della nostra specie, ma l'identificazione forzata (almeno parziale) di un individuo libero con una categoria che gli preesisteva e della quale non è pienamente consapevole. E d'altronde raggiunto un livello di normalizzazione della [postverità](https://mulino.it/isbn/9788815273819) così avanzato che, io credo, possiamo anche permetterci di fantasticare su un umano "post-*logos*", così come mi pare abbiano immaginato alcuni autori del passato. Con le parole di Allen Ginsberg in [*Le migliori menti della mia generazione*](https://www.ilsaggiatore.com/libro/le-migliori-menti-della-mia-generazione/) (p. 195):
+
+>[...] Estesa infine da Burroughs al linguaggio come dipendenza, al linguaggio come meccansimo di controllo. La parola vera e propria: "In principio era il Verbo" dicono i religiosi, nel tentativo di imporre il controllo ultimo sulla natura e sulla coscienza umane. La rivoluzione finale di Burroughs è di "cancellare la parola". Ripercorrere a ritroso il filare della parola per trovare l'origine del controllo.
+
+Questo perlomeno è ciò che *il mio* queer vorrebbe ispirare.
 
 <p class="date">Abbozzato il 18 marzo 2021.</p>

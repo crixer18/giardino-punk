@@ -69,7 +69,7 @@ L'ultimo aggiornamento è del **18 marzo 2021**.
 [Media]: media/media.md "Media"
 [Libri]: libri/libri.md "Libri"
 [musica]: musica/musica.md "Musica"
-[gender-blender]: gender-blender.md "gender-blender"
+[gender-blender]: gender-blender.md "Gender blender"
 [Mondo punk]: mondo-punk.md "Mondo punk"
 [Risorse]: risorse.md "Risorse"
 [cose di cui mi piacerebbe parlarti]: cose-di-cui-mi-piacerebbe-parlarti.md "Cose di cui mi piacerebbe parlarti"
