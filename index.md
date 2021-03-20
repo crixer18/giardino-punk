@@ -25,6 +25,8 @@ Ciao! Mi chiamo Stefano, sono un comunicatore digitale appassionato di letteratu
 
 ### Che novità ci sono:
 
+📰 [[consguenze-politiche-del-genere]]: Madame sulla copertina di Sette del 19 marzo
+
 😔 Ho riascoltato [[daft-punk]] quando ho saputo che si sono sciolti
 
 👓 L'[[AR]] è molto più diffua di quanto pensassi: basta aprire Instagram
@@ -33,7 +35,7 @@ Ciao! Mi chiamo Stefano, sono un comunicatore digitale appassionato di letteratu
 
 [//]: # 💫 L'[[estetica-neon]] di questo ambiente
 
-L'ultimo aggiornamento è del **18 marzo 2021**.
+L'ultimo aggiornamento è del **20 marzo 2021**.
 
 <hr>
 
@@ -62,6 +64,7 @@ L'ultimo aggiornamento è del **18 marzo 2021**.
 [non-pensare-all'elefante]: media/non-pensare-all'elefante.md "post n. 0"
 [digital-gardens]: digital-gardens/digital-gardens.md "Digital gardens"
 [che-cosa-direbbe-mark-fisher-dei-giardini-digitali]: digital-gardens/che-cosa-direbbe-mark-fisher-dei-giardini-digitali.md "Che cosa direbbe Mark Fisher dei giardini digitali"
+[consguenze-politiche-del-genere]: consguenze-politiche-del-genere.md "La stampa e il genere"
 [daft-punk]: musica/daft-punk.md "Random Access Memories dei Daft Punk"
 [AR]: AR.md "Augmented Reality"
 [lavoro-digitale-non-pagato]: lavoro-digitale-non-pagato.md "Lavoro digitale non retribuito"
