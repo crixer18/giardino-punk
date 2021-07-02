@@ -190,6 +190,8 @@ a:hover {
 }
 
 a.button{
+  padding: 10px 20px 10px 20px;
+  background-image: none;
   border:3px;
   border-color:blueviolet;
   border-radius: 10px;
