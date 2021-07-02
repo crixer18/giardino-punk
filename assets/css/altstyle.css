@@ -189,6 +189,12 @@ a:hover {
   text-decoration: none;
 }
 
+a.button{
+  border:3px;
+  border-color:blueviolet;
+  border-radius: 10px;
+}
+
 h1 a, h2 a, h3 a{
   color: blueviolet;
   background-image: none;
