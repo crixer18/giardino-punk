@@ -5,6 +5,9 @@ description: Un ambiente tranquillo dove rifletto su alcune delle cose interessa
 image: imgs/img0.jpg
 
 ---
+>Il giardino è la più piccola particella di mondo ed è anche la totalità del mondo. Il giardino rappresenta fin dalla più remota antichità una sorta di eterotopia felice e universalizzante. 
+
+Michel Foucault
 
 <hr>
 
@@ -55,7 +58,9 @@ Sono un comunicatore digitale, appassionato di letterature e tecnologie. Questo 
 I miei progetti:
 
 🚀 [Articoli](https://zulianistph.medium.com/)
+
 🚀 [Non siamo bookblogger](https://nonbookblogger.it)
+
 🚀 [Lilium Digital Garden Template for Jekyll](https://lilium-digital-garden-jekyll.vercel.app/)
 
 
