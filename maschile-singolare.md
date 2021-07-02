@@ -12,7 +12,7 @@ image: "imgs/img0.jpg"
 
 <br>
 
-![ValentinaNicoliSuNonbookblogger](imgs/gallery21-06-24.jpg)
+![Valentina Nicoli su Nonbookblogger](imgs/gallery21-06-24.jpg#screen)
 *[Valentina Nicoli su @nonbookblogger](https://www.instagram.com/p/CQg2ARJFfre/)*
 
 
