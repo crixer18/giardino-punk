@@ -6,13 +6,9 @@ image: imgs/img0.jpg
 
 ---
 
-<div style="min-height:100hv">
-
 >Il giardino è la più piccola particella di mondo ed è anche la totalità del mondo. Il giardino rappresenta fin dalla più remota antichità una sorta di eterotopia felice e universalizzante.<br><br> 🖋 Michel Foucault
 
-</div>
-
-<hr class="neon-violet">
+<hr class="neon-lightblue">
 
 
 ### 📸 [[galleria]]
