@@ -5,11 +5,9 @@ description: Un ambiente tranquillo dove rifletto su alcune delle cose interessa
 image: imgs/img0.jpg
 
 ---
->Il giardino è la più piccola particella di mondo ed è anche la totalità del mondo. Il giardino rappresenta fin dalla più remota antichità una sorta di eterotopia felice e universalizzante. 
+>Il giardino è la più piccola particella di mondo ed è anche la totalità del mondo. Il giardino rappresenta fin dalla più remota antichità una sorta di eterotopia felice e universalizzante.<br><br> 🖋 Michel Foucault
 
-Michel Foucault
-
-<hr>
+<hr class="neon-violet">
 
 
 ### 📸 [[galleria]]
@@ -17,8 +15,6 @@ Michel Foucault
 ### 💻 [[Media]]
 
 ### 📚 [[Libri]]
-
-### 🎶 [[musica]]
 
 ### ⚗️ [[gender-blender]]
 
@@ -78,7 +74,6 @@ L'ultimo aggiornamento è del **2 luglio 2021**.
 [galleria]: galleria.md "Galleria"
 [Media]: media/media.md "Media"
 [Libri]: libri/libri.md "Libri"
-[musica]: musica/musica.md "Musica"
 [gender-blender]: gender-blender.md "Gender blender"
 [Mondo punk]: mondo-punk.md "Mondo punk"
 [digital-gardens]: digital-gardens/digital-gardens.md "Digital gardens"
