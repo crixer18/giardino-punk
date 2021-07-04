@@ -21,3 +21,84 @@ audio{
   margin:auto;
   width: 100%;
 }
+
+.Foucault {
+  padding:10px 30px 5px 30px;
+  margin:30px 15px 30px 15px;
+  border-left: 10px solid;
+  border-right: 10px solid;
+  border-image-slice: 1;
+  border-width: 3px;
+  border-image-source: linear-gradient(to bottom , red, orange, yellow, #1fff1f, #1fffff, blueviolet);
+  border-radius: 50px;
+}
+.Foucault p {
+  text-align: center;
+  font-size: small;
+}
+.Foucault .quote{
+  font-weight: 600;
+  font-family: brandon-grotesque,sans-serif;
+  font-style: italic;
+  font-size: 22px;
+  margin-bottom:40px;
+}
+
+.etichette ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  line-break: strict;
+}
+.etichette li {
+  white-space:nowrap;
+  display: inline;
+  align: center;
+
+}
+.etichette li a {
+  background-image: none;
+  background-color: #222222;
+  padding: 9px 18px 9px 18px;
+  border: 1px solid #666666;
+  border-radius: 25px;
+  margin:3px;
+  font-size: 1em;
+  line-height: 3em;
+}
+.etichette li a:hover {
+  background-color: #666666;
+}
+
+
+.author {
+  padding: 1px 30px 30px 30px;
+  margin: 100px 0px 30px 0px;
+  border-left: 10px solid;
+  border-image-slice: 1;
+  border-width: 3px;
+  border-image-source: linear-gradient(to bottom , red, orange, yellow, #1fff1f, #1fffff, blueviolet);
+  background-color: #111111;
+}
+img.profilepic {
+  display:none;
+  width: 30%;
+  max-width: 100px;
+  max-height: 100px;
+  border-radius: 100px;
+  border: none;
+  padding: 0px;
+  margin-top: 0px;
+  box-shadow: 5px 5px blueviolet;
+}
+
+.colophon{
+  border-top: 1px solid #666666;
+  padding-top: 10px;
+  margin-top: 50px;
+}
+.colophon p{
+  font-size: small;
+}

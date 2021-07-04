@@ -15,6 +15,8 @@ image: "imgs/img0.jpg"
 
 ### Siti che comincerei a frequentare se fossi in te e non li conoscessi
 
+* [Siamomine](“https://www.siamomine.com/)
+* [Movimento Multipotenziale](https://www.multipotenziali.com/)
 * [Kabul Magazine](https://www.kabulmagazine.com/ccru-numogramma-decimale/)
 * [MIT Technology Review](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 * [Not](https://not.neroeditions.com/cose-la-theory-fiction/) di Nero Edizioni
@@ -33,7 +35,7 @@ image: "imgs/img0.jpg"
 * [Foam](https://foambubble.github.io/foam/) per organizzare i tuoi pensieri o qualsiasi altra cosa
 * [Tor](https://www.torproject.org/) per navigare in santa privacy
 
-### Blogger e persone che ammiro (con nomi e cognomi)
+### Giornalist*, blogger e altre persone che ammiro (con nomi e cognomi)
 
 * Alexandre Laumonier detto [Sniper in Mahwah](https://sniperinmahwah.wordpress.com/)
 * [Paul B. Preciado](https://www.internazionale.it/tag/autori/paul-preciado)
@@ -43,16 +45,5 @@ image: "imgs/img0.jpg"
 ### Qualche content creator veramente brav*
 
 * [Latte ASMR](https://www.youtube.com/channel/UCQe2Y7V-C9bNMAcCJCBvzQQ)
-
-
-<hr class="neon-lightblue">
-
-
-### Alcuni articoli "veri" che ho scritto
-
-
-💾 [La grande lezione del floppy disk](http://www.typoes.it/2020/10/14/floppy-disk-icona/). Tutto quello che un'icona può insegnarci per fare pace con la nostra obsolescenza
-
-🤖 [Adam e le macchine d’autore](http://www.typoes.it/2019/11/16/macchine-come-me-di-ian-mcewan/) *Macchine come me* di Ian McEwan ci dimostra che nella letteratura c'è spazio per i robot (e se non c'è, è il momento di darglielo)
-
-🏳️‍🌈 [Freedom of self-defining — explained to Italian trans-exclusive feminists](https://medium.com/@ZulianiStph/freedom-of-self-defining-explained-to-italian-trans-exclusive-feminists-4c184394662f)
+* [Silver Hare](https://www.youtube.com/channel/UCRNleMtwLNelApFVG9MWFBA) (sempre ASMR)
+* [Collettivo memetico](https://instagram.com/collettivo.memetico)

@@ -3,7 +3,7 @@ layout: althome
 ---
 
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "it-IT" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,10 +16,10 @@ layout: althome
   <body>
     <div class="panel">
 
-      <audio controls autoplay>
+      <!--<audio controls autoplay>
         <source src="/assets/Daft Punk - Digital Love.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
-      </audio>
+      </audio>-->
 
     <div class="language">
       <a href="{{ site.url }}/en/">🇬🇧</a><br><a href="https://giardino-punk.vercel.app/">🇮🇹</a>
@@ -29,15 +29,65 @@ layout: althome
       <h1 class="site-title">{{ site.title }}</h1>
       {% endif %}
 
-      <div class="px-3 my-5 markdown-body">
+      <main class="px-3 my-5 markdown-body">
+
+        <div class="Foucault">
+          <p style="font-size: x-large;">🌱</p>
+          <p class="quote">Il giardino è la più piccola particella di mondo ed è anche la totalità del mondo. Il giardino rappresenta fin dalla più remota antichità una sorta di eterotopia felice e universalizzante.</p>
+          <p>🖋 Michel Foucault</p>
+        </div>
+
+        <div class="etichette">
+          <ul>
+            <li><a href="/galleria.md">📸 Galleria</a></li>
+            <li><a href="/media/media.md">💻 Media</a></li>
+            <li><a href="/risorse.md">📌 Risorse</a></li>
+            <li><a href="/gender-blender.md">🏳️‍🌈 Gender Blender</a></li>
+            <li><a href="/mondo-punk.md">💣 Punk</a></li>
+            <li><a href="/musica/musica.md">🎶 Musica</a></li>
+            <li><a href="/digital-gardens/digital-gardens.md">🌱 Digital Gardens</a></li>
+          </ul>
+        </div>
 
         {{ content }}
 
-      </div>
+        <div class="author">
+
+          <h2>Stefano Zuliani <span style="color:grey; font-size:.8em">(he/they)</span></h2>
+
+          <p>Sono un comunicatore digitale, multipotenziale e queer.
+          Questo è un ambiente in-progress, dove rifletto su alcune delle cose interessanti in cui mi sono imbattuto fuori e dentro la Rete.</p>
+
+          <a href="https://linktr.ee/giardino_punk" class="button">Progetti</a>
+          <a class="button" href="mailto:web@zulianis.eu">Contattami</a>
+
+          <img src="/imgs/profile.jpg" class="profilepic"/>
+
+        </div>
+
+
+        <div class="colophon">
+
+          <p>️⚠️ Come vedi, non esiste un indice cronologico delle note.
+            👾 Non so chi sei, ma faccio uso di <strong>cookie</strong> per scoprire come ti comporti quando sei qui.
+            ⏳ L'ultimo aggiornamento è del <strong><span id="date"></span></strong>.</p>
+
+        </div>
+      </main>
 
       <a href="/credits" class="credits">Credits</a>
 
     </div>
+
+      <script type="text/javascript">
+        //last updated date
+        n =  new Date();
+        y = n.getFullYear();
+        m = n.getMonth() + 1;
+        d = n.getDate();
+        document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
+      </script>
+
 
       <script type="text/javascript">
         // Hack: Replace page-link with "Page Title"
